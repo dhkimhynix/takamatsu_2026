@@ -173,21 +173,21 @@ export function ItineraryScreen({
         },
         {
           time: "10:20",
-          title: "소요사 관람",
-          description: "영화 촬영지로 유명한 사찰",
-          image:
-            "https://images.unsplash.com/photo-1644413239414-33a8bf405db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMHRlbXBsZSUyMHNocmluZXxlbnwxfHx8fDE3NjQ3NjU1NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-          tags: ["사찰", "문화"],
-          location: "쇼요사 쇼도시마",
-        },
-        {
-          time: "11:30",
           title: "올리브공원",
           description: "지중해 풍경의 올리브 농장과 포토존",
           image:
             "https://images.unsplash.com/photo-1722228097356-bd0202d99367?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvbGl2ZSUyMGdyb3ZlJTIwbWVkaXRlcnJhbmVhbnxlbnwxfHx8fDE3NjQ3NTM4MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["자연", "포토존", "핫플"],
           location: "쇼도시마 올리브공원",
+        },
+        {
+          time: "11:30",
+          title: "간카케이 협곡",
+          description: "로프웨이로 오르는 일본 3대 계곡 미경",
+          image:
+            "https://images.unsplash.com/photo-1710752968127-6290b021e68a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMGdvcmdlJTIwbmF0dXJlfGVufDF8fHx8MTc2NDc1MzgyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+          tags: ["자연", "전망", "로프웨이"],
+          location: "간카케이 쇼도시마",
         },
         {
           time: "12:30",
@@ -200,12 +200,12 @@ export function ItineraryScreen({
         },
         {
           time: "13:30",
-          title: "간카케이 협곡",
-          description: "로프웨이로 오르는 일본 3대 계곡 미경",
+          title: "24개의 눈동자 영화마을",
+          description: "1950년대 일본의 향수를 느낄 수 있는 영화 세트장",
           image:
-            "https://images.unsplash.com/photo-1710752968127-6290b021e68a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMGdvcmdlJTIwbmF0dXJlfGVufDF8fHx8MTc2NDc1MzgyNXww&ixlib=rb-4.1.0&q=80&w=1080",
-          tags: ["자연", "전망", "로프웨이"],
-          location: "간카케이 쇼도시마",
+            "https://images.unsplash.com/photo-1599579086763-717c15444c74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMHNjaG9vbCUyMGJ1aWxkaW5nfGVufDF8fHx8MTc2NDgzODIxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+          tags: ["영화촬영지", "레트로", "문화", "포토존"],
+          location: "24개의 눈동자 영화마을",
         },
         {
           time: "15:00",
