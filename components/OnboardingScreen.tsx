@@ -10,7 +10,7 @@ export function OnboardingScreen({
   onStart,
 }: OnboardingScreenProps) {
   return (
-    <div className="h-screen bg-[#0F1419] relative overflow-hidden scrollbar-hide">
+    <div className="min-h-screen bg-[#0F1419] relative overflow-y-auto scrollbar-hide">
       {/* Background Image */}
       <div className="absolute inset-0">
         <ImageWithFallback
@@ -23,7 +23,7 @@ export function OnboardingScreen({
       </div>
 
       {/* Content */}
-      <div className="relative h-full flex flex-col justify-between p-8 pb-12">
+      <div className="relative min-h-screen flex flex-col justify-between p-8 pb-12">
         {/* Top Section */}
         <motion.div
           initial={{ opacity: 0, y: -30 }}

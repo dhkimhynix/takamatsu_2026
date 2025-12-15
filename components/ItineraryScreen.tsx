@@ -52,27 +52,27 @@ export function ItineraryScreen({
           description:
             "일본 3대 정원 중 하나. 에도시대 다이묘 정원의 아름다움",
           image:
-            "https://images.unsplash.com/photo-1759301248923-96589a0e6628?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMGdhcmRlbiUyMHBvbmQlMjBjaW5lbWF0aWN8ZW58MXx8fHwxNzY0NzUzODIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1601823984263-b87b59798b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["정원", "포토존", "자연"],
           location: "리츠린공원",
         },
         {
           time: "12:30",
-          title: "야시마 전망대",
+          title: "사자의 영암 전망대",
           description: "세토나이카이의 절경을 한눈에",
           image:
-            "https://images.unsplash.com/photo-1555284859-3de6f0646424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMHN1bnNldCUyMGphcGFuJTIwY2luZW1hdGljfGVufDF8fHx8MTc2NDc1MzgyNHww&ixlib=rb-4.1.0&q=80&w=1080",
-          tags: ["전망", "자연"],
-          location: "야시마 전망대",
+            "https://images.unsplash.com/photo-1528360983277-13d401cdc186?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+          tags: ["전망", "자연", "포토존"],
+          location: "사자의 영암 전망대",
         },
         {
           time: "13:00",
-          title: "야시마 다카라베키",
+          title: "야시마 상점가",
           description: "전통 기념품샵 및 특산물 쇼핑",
           image:
-            "https://images.unsplash.com/photo-1747014914522-2777a6947b66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaG9wcGluZyUyMGphcGFuJTIwc291dmVuaXJ8ZW58MXx8fHwxNzY0ODM4MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["쇼핑"],
-          location: "야시마 다카라베키",
+          location: "야시마 상점가",
         },
         {
           time: "13:30",
@@ -85,15 +85,6 @@ export function ItineraryScreen({
         },
         {
           time: "14:30",
-          title: "사누키 영업 전망대",
-          description: "360도 파노라마 뷰",
-          image:
-            "https://images.unsplash.com/photo-1555284859-3de6f0646424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMHN1bnNldCUyMGphcGFuJTIwY2luZW1hdGljfGVufDF8fHx8MTc2NDc1MzgyNHww&ixlib=rb-4.1.0&q=80&w=1080",
-          tags: ["전망"],
-          location: "사누키 영업 전망대",
-        },
-        {
-          time: "15:30",
           title: "고토히라 이동",
           description: "전용버스",
           image:
@@ -102,27 +93,36 @@ export function ItineraryScreen({
           location: "고토히라",
         },
         {
-          time: "16:30",
+          time: "15:30",
           title: "곤피라궁 투어",
           description: "785개 계단으로 이어지는 신성한 신사",
           image:
-            "https://images.unsplash.com/photo-1644413239414-33a8bf405db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMHRlbXBsZSUyMHNocmluZXxlbnwxfHx8fDE3NjQ3NjU1NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1580090542367-a6ad0d3028e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["신사", "문화", "전통"],
           location: "곤피라궁",
+        },
+        {
+          time: "16:30",
+          title: "고토히라 몬젠마치",
+          description: "고토히라 주변 상점가 구경",
+          image:
+            "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+          tags: ["쇼핑", "거리", "먹거리"],
+          location: "고토히라 몬젠마치",
         },
         {
           time: "18:00",
           title: "코토히라 온천 코바이테이 호텔 체크인",
           description: "전통 온천 료칸",
           image:
-            "https://images.unsplash.com/photo-1758448500688-3ababa93fd67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxob3RlbCUyMGNoZWNrJTIwaW4lMjBsdXh0cnl8ZW58MXx8fHwxNzY0ODM4MjEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1553653924-39b70295f8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["숙박", "온천"],
           location: "코토히라 온천 코바이테이 호텔",
         },
         {
           time: "18:30",
-          title: "자유식",
-          description: "1,000엔 지급",
+          title: "석식",
+          description: "자유식(1000엔 지급)",
           image:
             "https://images.unsplash.com/photo-1679279726946-a158b8bcaa23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxrYWlzZW5kb24lMjBqYXBhbmVzZSUyMHNlYWZvb2QlMjByaWNlJTIwYm93bHxlbnwxfHx8fDE3NjQ4NTMwODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["식사", "카이센동"],
@@ -176,7 +176,7 @@ export function ItineraryScreen({
           title: "올리브공원",
           description: "지중해 풍경의 올리브 농장과 포토존",
           image:
-            "https://images.unsplash.com/photo-1722228097356-bd0202d99367?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxvbGl2ZSUyMGdyb3ZlJTIwbWVkaXRlcnJhbmVhbnxlbnwxfHx8fDE3NjQ3NTM4MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["자연", "포토존", "핫플"],
           location: "쇼도시마 올리브공원",
         },
@@ -185,7 +185,7 @@ export function ItineraryScreen({
           title: "간카케이 협곡",
           description: "로프웨이로 오르는 일본 3대 계곡 미경",
           image:
-            "https://images.unsplash.com/photo-1710752968127-6290b021e68a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMGdvcmdlJTIwbmF0dXJlfGVufDF8fHx8MTc2NDc1MzgyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1478827536114-da961b7f86d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["자연", "전망", "로프웨이"],
           location: "간카케이 쇼도시마",
         },
@@ -203,7 +203,7 @@ export function ItineraryScreen({
           title: "24개의 눈동자 영화마을",
           description: "1950년대 일본의 향수를 느낄 수 있는 영화 세트장",
           image:
-            "https://images.unsplash.com/photo-1599579086763-717c15444c74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMHNjaG9vbCUyMGJ1aWxkaW5nfGVufDF8fHx8MTc2NDgzODIxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1480796927426-f609979314bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["영화촬영지", "레트로", "문화", "포토존"],
           location: "24개의 눈동자 영화마을",
         },
@@ -212,7 +212,7 @@ export function ItineraryScreen({
           title: "엔젤로드",
           description: "썰물 때만 나타나는 신비한 길",
           image:
-            "https://images.unsplash.com/photo-1691422066850-de273fe9008d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2FzdGFsJTIwbGFuZHNjYXBlJTIwYmVhY2glMjBzdW5zZXR8ZW58MXx8fHwxNzY0NzUzODI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["해변", "포토존", "자연"],
           location: "엔젤로드 쇼도시마",
         },
@@ -289,7 +289,7 @@ export function ItineraryScreen({
           title: "베네세 하우스 외부 작품",
           description: "현대미술과 자연의 조화",
           image:
-            "https://images.unsplash.com/photo-1667396543485-92c13ffd69f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiZW5lc3NlJTIwYXJ0JTIwbXVzZXVtJTIwbmFvc2hpbWF8ZW58MXx8fHwxNzY0ODM4OTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1518998053901-5348d3961a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["예술", "미술관", "건축"],
           location: "베네세 하우스 나오시마",
         },
@@ -298,7 +298,7 @@ export function ItineraryScreen({
           title: "치추 미술관 · 지중 미술관",
           description: "안도 타다오 설계, 지하에 숨겨진 미술관",
           image:
-            "https://images.unsplash.com/photo-1686616099216-116637548f69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGljaHUlMjBhcnQlMjBtdXNldW0lMjB0YWRhbyUyMGFuZG98ZW58MXx8fHwxNzY0ODM4OTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["예술", "건축", "안도타다오"],
           location: "치추 미술관 나오시마",
         },
@@ -316,7 +316,7 @@ export function ItineraryScreen({
           title: "레드 펌킨",
           description: "쿠사마 야요이의 상징적인 호박 조형물",
           image:
-            "https://images.unsplash.com/photo-1762776639828-bb304c9acb6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZWQlMjBwdW1wa2luJTIwc2N1bHB0dXJlJTIwYXJ0fGVufDF8fHx8MTc2NDg0OTA2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1570459027562-4a916cc6113f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["예술", "포토존", "핫플"],
           location: "레드 펌킨 나오시마",
         },
@@ -325,7 +325,7 @@ export function ItineraryScreen({
           title: "이우환 미술관",
           description: "안도 타다오 프로젝트",
           image:
-            "https://images.unsplash.com/photo-1645986321095-e2b0cc845c9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb250ZW1wb3JhcnklMjBhcnQlMjBtdXNldW0lMjBpbnRlcmlvcnxlbnwxfHx8fDE3NjQ4Mzg5NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1541961017774-22349e4a1262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["예술", "미술관"],
           location: "이우환 미술관 나오시마",
         },
@@ -352,7 +352,7 @@ export function ItineraryScreen({
           image:
             "https://images.unsplash.com/photo-1742968922494-d464972b81a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxrYWlzZWtpJTIwcnlvcmklMjBqYXBhbmVzZSUyMGN1aXNpbmV8ZW58MXx8fHwxNzY0ODUzMDgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["식사", "가이세키"],
-          location: "다이와로이넷 호텔",
+          location: "다카마쓰 다이와 로이넷 호텔",
         },
         {
           time: "20:00",
@@ -361,7 +361,7 @@ export function ItineraryScreen({
           image:
             "https://images.unsplash.com/photo-1761585455811-6d4d232ddf52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqYXBhbmVzZSUyMGNvbnZlbmllbmNlJTIwc3RvcmUlMjBpbnRlcmlvcnxlbnwxfHx8fDE3NjQ4NTMwODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["편의점", "쇼핑"],
-          location: "다이와로이넷 호텔",
+          location: "다카마쓰 다이와 로이넷 호텔",
         },
       ],
     },
@@ -377,7 +377,7 @@ export function ItineraryScreen({
           image:
             "https://images.unsplash.com/photo-1722477936580-84aa10762b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxicmVha2Zhc3QlMjBob3RlbCUyMGJ1ZmZldHxlbnwxfHx8fDE3NjQ4MzgyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
           tags: ["식사"],
-          location: "다이와로이넷 호텔",
+          location: "다카마쓰 다이와 로이넷 호텔",
         },
         {
           time: "09:00",
@@ -481,11 +481,10 @@ export function ItineraryScreen({
               onClick={() => scrollToDay(index)}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              className={`relative flex-shrink-0 px-4 py-2 rounded-full text-sm transition-all duration-500 overflow-hidden ${
-                activeDay === index
-                  ? "text-white shadow-xl gold-metallic"
-                  : "bg-white/10 text-white/70 backdrop-blur-sm hover:bg-white/15"
-              }`}
+              className={`relative flex-shrink-0 px-4 py-2 rounded-full text-sm transition-all duration-500 overflow-hidden ${activeDay === index
+                ? "text-white shadow-xl gold-metallic"
+                : "bg-white/10 text-white/70 backdrop-blur-sm hover:bg-white/15"
+                }`}
             >
               {activeDay === index && (
                 <motion.div
@@ -559,15 +558,15 @@ export function ItineraryScreen({
                   onClick={
                     activity.image
                       ? () =>
-                          onPlaceClick({
-                            name: activity.title,
-                            description:
-                              activity.description || "",
-                            image: activity.image!,
-                            location:
-                              activity.location || "시코쿠",
-                            tags: activity.tags || [],
-                          })
+                        onPlaceClick({
+                          name: activity.title,
+                          description:
+                            activity.description || "",
+                          image: activity.image!,
+                          location:
+                            activity.location || "시코쿠",
+                          tags: activity.tags || [],
+                        })
                       : undefined
                   }
                 />
