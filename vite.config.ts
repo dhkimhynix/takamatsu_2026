@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
-  base: '/takamatsu_2026/',
   plugins: [react()],
   resolve: {
     alias: {
