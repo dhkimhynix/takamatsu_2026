@@ -52,7 +52,7 @@ export function ItineraryScreen({
           description:
             "일본 3대 정원 중 하나. 에도시대 다이묘 정원의 아름다움",
           image:
-            "https://images.unsplash.com/photo-1601823984263-b87b59798b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1624601573012-efb68931cc8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["정원", "포토존", "자연"],
           location: "리츠린공원",
         },
@@ -61,7 +61,7 @@ export function ItineraryScreen({
           title: "사자의 영암 전망대",
           description: "세토나이카이의 절경을 한눈에",
           image:
-            "https://images.unsplash.com/photo-1528360983277-13d401cdc186?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1542640244-7e672d6cef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["전망", "자연", "포토존"],
           location: "사자의 영암 전망대",
         },
@@ -70,7 +70,7 @@ export function ItineraryScreen({
           title: "야시마 상점가",
           description: "전통 기념품샵 및 특산물 쇼핑",
           image:
-            "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["쇼핑"],
           location: "야시마 상점가",
         },
@@ -97,7 +97,7 @@ export function ItineraryScreen({
           title: "곤피라궁 투어",
           description: "785개 계단으로 이어지는 신성한 신사",
           image:
-            "https://images.unsplash.com/photo-1580090542367-a6ad0d3028e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["신사", "문화", "전통"],
           location: "곤피라궁",
         },
@@ -106,7 +106,7 @@ export function ItineraryScreen({
           title: "고토히라 몬젠마치",
           description: "고토히라 주변 상점가 구경",
           image:
-            "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1528164344705-47542687000d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["쇼핑", "거리", "먹거리"],
           location: "고토히라 몬젠마치",
         },
@@ -115,7 +115,7 @@ export function ItineraryScreen({
           title: "코토히라 온천 코바이테이 호텔 체크인",
           description: "전통 온천 료칸",
           image:
-            "https://images.unsplash.com/photo-1553653924-39b70295f8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1540541338287-41700207dee6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["숙박", "온천"],
           location: "코토히라 온천 코바이테이 호텔",
         },
@@ -176,7 +176,7 @@ export function ItineraryScreen({
           title: "올리브공원",
           description: "지중해 풍경의 올리브 농장과 포토존",
           image:
-            "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["자연", "포토존", "핫플"],
           location: "쇼도시마 올리브공원",
         },
@@ -185,7 +185,7 @@ export function ItineraryScreen({
           title: "간카케이 협곡",
           description: "로프웨이로 오르는 일본 3대 계곡 미경",
           image:
-            "https://images.unsplash.com/photo-1478827536114-da961b7f86d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1544551763-46a013bb70d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["자연", "전망", "로프웨이"],
           location: "간카케이 쇼도시마",
         },
@@ -203,7 +203,7 @@ export function ItineraryScreen({
           title: "24개의 눈동자 영화마을",
           description: "1950년대 일본의 향수를 느낄 수 있는 영화 세트장",
           image:
-            "https://images.unsplash.com/photo-1480796927426-f609979314bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["영화촬영지", "레트로", "문화", "포토존"],
           location: "24개의 눈동자 영화마을",
         },
@@ -212,7 +212,7 @@ export function ItineraryScreen({
           title: "엔젤로드",
           description: "썰물 때만 나타나는 신비한 길",
           image:
-            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1519046904884-53103b34b206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["해변", "포토존", "자연"],
           location: "엔젤로드 쇼도시마",
         },
@@ -289,7 +289,7 @@ export function ItineraryScreen({
           title: "베네세 하우스 외부 작품",
           description: "현대미술과 자연의 조화",
           image:
-            "https://images.unsplash.com/photo-1518998053901-5348d3961a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["예술", "미술관", "건축"],
           location: "베네세 하우스 나오시마",
         },
@@ -298,7 +298,7 @@ export function ItineraryScreen({
           title: "치추 미술관 · 지중 미술관",
           description: "안도 타다오 설계, 지하에 숨겨진 미술관",
           image:
-            "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1577720580479-7d839d829c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["예술", "건축", "안도타다오"],
           location: "치추 미술관 나오시마",
         },
@@ -316,7 +316,7 @@ export function ItineraryScreen({
           title: "레드 펌킨",
           description: "쿠사마 야요이의 상징적인 호박 조형물",
           image:
-            "https://images.unsplash.com/photo-1570459027562-4a916cc6113f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1610375461246-83df859d849d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["예술", "포토존", "핫플"],
           location: "레드 펌킨 나오시마",
         },
@@ -325,7 +325,7 @@ export function ItineraryScreen({
           title: "이우환 미술관",
           description: "안도 타다오 프로젝트",
           image:
-            "https://images.unsplash.com/photo-1541961017774-22349e4a1262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=80&w=1080",
+            "https://images.unsplash.com/photo-1518005020951-eccb494ad742?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
           tags: ["예술", "미술관"],
           location: "이우환 미술관 나오시마",
         },
